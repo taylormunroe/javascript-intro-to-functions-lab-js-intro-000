@@ -1,4 +1,4 @@
-global.expect = require('expect');
+leglobal.expect = require('expect');
 
 const babel = require('babel-core');
 const jsdom = require('jsdom');
